@@ -1,2 +1,2 @@
 # github_practice
-This repo is for leaning purpose
+This repo is for learning purpose
